@@ -1,2 +1,11 @@
 
 /* Your CSS Code here. */
+body{
+	display:flex;
+	flex-wrap:wrap;
+	justify-content:space-between;
+	align-items:center;
+	flex:1;
+	padding:10px;
+	box-sizing:border-box;
+}
