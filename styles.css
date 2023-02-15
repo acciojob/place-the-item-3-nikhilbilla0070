@@ -1,10 +1,12 @@
 
 /* Your CSS Code here. */
-body{
+.holder{
 	display:flex;
 	flex-wrap:wrap;
 	justify-content:space-between;
 	align-items:center;
+}
+.item{
 	flex:1;
 	padding:10px;
 	box-sizing:border-box;
